@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreyHair65601
+- 👋 Hi, I’m @Wilson_Bli
 - 👀 I’m interested in data analytics projects
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data analyst
